@@ -1,0 +1,18 @@
+# Datasets
+*.tsv
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# Environment
+.env
+.venv/
